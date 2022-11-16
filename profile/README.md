@@ -2,7 +2,7 @@ OA-WCVP is a holder for repositories that automate the data access, analysis and
 
 | Respository |Purpose|Research questions |Spatiotemporal range & source|Results|
 |-------------------|---------|-------------|----|-----|
-|[ipni-oa](https://github.com/OA-WCVP/ipni-oa) |analysis - author behaviour: selection of publication venue|(1a) What proportion of IPNI monitored nomenclatural acts are published open access, and how is this changing over time? <br/>(1b) What OA statuses (green, gold, bronze, hybrid etc) are reported, and how are these changing over time? <br/>(2) Which journals are publishing names and how are they using open access? <br/>(3) Do these trends vary with the WCVP distribution of the species?|2012-2020; WCVP range for taxon|[v0.1.16](https://github.com/OA-WCVP/ipni-oa/releases/tag/v0.1.16)|
+|[ipni-oa](https://github.com/OA-WCVP/ipni-oa) |analysis - author behaviour: selection of publication venue|(1a) What proportion of IPNI monitored nomenclatural acts are published open access, and how is this changing over time? <br/>(1b) What OA statuses (green, gold, bronze, hybrid etc) are reported, and how are these changing over time? <br/>(2) Which journals are publishing names and how are they using open access? <br/>(3) Do these trends vary with the WCVP distribution of the species?|2012-2020; WCVP range for taxon|[v0.1.17](https://github.com/OA-WCVP/ipni-oa/releases/tag/v0.1.17)|
 |[paper](https://github.com/OA-WCVP/paper)|compilation|*Integrates article text with archived analytical outputs (charts / summary statistics) from the repositories above*||[Latest](https://github.com/OA-WCVP/paper/releases/)
 
 The description of work (as submitted in the call for abstracts) is here cross-referenced with each analysis repository:
